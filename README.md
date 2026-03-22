@@ -1,4 +1,11 @@
-## Hi there 👋
+# profile
+
+<div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Stats </h2>
+    <div style="text-align: left;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binghin2&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000" />
+    </div> 
+</div>
 
 <!--
 **binghin2/binghin2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
